@@ -4,3 +4,6 @@ data/
 runs/ 
 *.pt 
 *.pkl 
+".venv/" 
+"runs/" 
+"data/" 
